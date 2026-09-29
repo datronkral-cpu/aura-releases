@@ -1,0 +1,11 @@
+{
+  "name": "Aura'S",
+  "short_name": "Aura'S",
+  "start_url": "/uygulama/",
+  "scope": "/uygulama/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2A0CC0",
+  "theme_color": "#2A0CC0",
+  "icons": [{ "src": "/uygulama/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }]
+}
